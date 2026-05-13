@@ -1,0 +1,15 @@
+# ビルド成果物
+**/pause
+**/pause_static
+**/hello
+**/*.o
+**/*.a
+
+# Python
+**/__pycache__/
+**/*.pyc
+
+# エディタ・OS
+.DS_Store
+*.swp
+*.swo
